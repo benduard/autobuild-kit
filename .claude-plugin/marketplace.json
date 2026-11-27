@@ -1,0 +1,12 @@
+{
+  "name": "autobuild-kit",
+  "description": "Ben's autonomous build plugin",
+  "owner": { "name": "Ben" },
+  "plugins": [
+    {
+      "name": "autobuild",
+      "source": "./plugins/autobuild",
+      "description": "Autonomous build loop with model routing, grading, and a safety guard"
+    }
+  ]
+}

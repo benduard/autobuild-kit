@@ -1,0 +1,8 @@
+{
+  "name": "autobuild",
+  "displayName": "Autobuild",
+  "description": "Autonomous build loop: Opus plans, parallel Sonnet/Haiku subagents build, an Opus grader audits, and hooks block finishing until the objective score passes. Critical decisions are batched for you at the end.",
+  "author": { "name": "Ben" },
+  "license": "MIT",
+  "keywords": ["autonomous", "subagents", "grading", "goal"]
+}
